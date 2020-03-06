@@ -1,3 +1,7 @@
-print("hello world");
-print ("hello evrybody");
-print("hello");
+print("hello world;")
+print ("hello evrybody;")
+print("hello;")
+print("hello ny dear frien;d")
+print("glad to see  you;")
+
+
